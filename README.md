@@ -3,12 +3,13 @@ Proyecto: Sistema de Gestión de Inventarios
 
 Presentado por: GRUPO 2
 
-CARLOS DANIEL BEDOYA ARISTIZABAL
+`CARLOS DANIEL BEDOYA ARISTIZABAL`
 
-DANIEL ESTEBAN SIERRA ANGULO
+`DANIEL ESTEBAN SIERRA ANGULO`
 
-ALVARO JOSE AVENDAÑO VARGAS
+`ALVARO JOSE AVENDAÑO VARGAS`
 
-JHON JAIRO MORA IBARRA
+`JHON JAIRO MORA IBARRA`
 
-El presente proyecto permite gestionar el inventario de una tienda de ropa. Dentro de sus funciones están el agregar productos, ver todos los productos, actualizar la cantidad de un producto y eliminar productos sin stock.
+>[!IMPORTANT]
+>El presente proyecto permite gestionar el inventario de una tienda de ropa. Dentro de sus funciones están el agregar productos, ver todos los productos, actualizar la cantidad de un producto y eliminar productos sin stock.
